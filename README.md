@@ -1,2 +1,2 @@
 # Ambassador-recommendation-system
-This is an Insight project which is called "Ambassador Easy!"
+This repository includes all codes associated with the Insight data science project "Ambassador Easy!", which provides potential companies with influencer recommendations based on NLP techniques for marketing campaign purpose.
